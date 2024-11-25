@@ -1,0 +1,8 @@
+.box{
+    border-top: 5px solid red;
+    border-right: 5px groove rosybrown;
+    border-bottom: 5px dashed  cyan;
+    border-left: 5px double darkblue;
+    width: 80px;
+    height: 80px;
+}
